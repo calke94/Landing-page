@@ -7,8 +7,6 @@ The design is clean, professional, and mobile-friendly, making it ideal for show
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://calke94.github.io/Landing-page/)  
-
 👉 [GitHub Repository](https://github.com/calke94/Landing-page)
 
 
@@ -32,11 +30,6 @@ The design is clean, professional, and mobile-friendly, making it ideal for show
 
 - **JavaScript (ES6)** – interactivity and DOM manipulation  
 
-## 📸 Screenshots
-
-![Desktop View](screenshots/desktop.png)  
-
-![Mobile View](screenshots/mobile.png)  
 
 ## 📂 How to Use
 
@@ -44,5 +37,5 @@ The design is clean, professional, and mobile-friendly, making it ideal for show
 
    ```bash
 
-   git clone https://github.com/tvoj-username/landing-page-project.git
+   git clone https://github.com/calke94/Landing-page.git
 
