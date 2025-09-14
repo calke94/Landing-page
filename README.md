@@ -7,7 +7,7 @@ The design is clean, professional, and mobile-friendly, making it ideal for show
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://calke94.github.io/landing-page-project/)  
+👉 [View Demo](https://calke94.github.io/Landing-page/)  
 
 👉 [GitHub Repository](https://github.com/calke94/Landing-page)
 
